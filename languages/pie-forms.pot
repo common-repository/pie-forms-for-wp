@@ -1,0 +1,3197 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Pie Forms\n"
+"POT-Creation-Date: 2024-06-10 10:30+0500\n"
+"PO-Revision-Date: 2020-07-30 10:42+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: client\n"
+
+#: includes/aboutus/aboutus.php:15 includes/admin/adminmenubar.php:153
+#: includes/admin/menus/aboutus.php:15 pie-forms-for-wp.php:356
+msgid "About Us"
+msgstr ""
+
+#: includes/aboutus/aboutus.php:37
+msgid "PB Add-ons for WP Bakery"
+msgstr ""
+
+#: includes/aboutus/aboutus.php:38
+msgid "Build your website with premium quality All-in-One Web elements for WPBakery Page Builder."
+msgstr ""
+
+#: includes/aboutus/aboutus.php:45
+msgid "Pie Register"
+msgstr ""
+
+#: includes/aboutus/aboutus.php:46
+msgid "Your custom registration form builder plugin for WordPress websites to help you create simple to most robust registration forms in minutes, without a single line of code!"
+msgstr ""
+
+#: includes/aboutus/aboutus.php:110
+msgid "WordPress.org"
+msgstr ""
+
+#: includes/abstracts/fields.php:299 includes/integration/beaver/module.php:64
+#: includes/integration/beaver/module.php:74
+#: includes/integration/divi/module.php:59
+#: includes/integration/divi/module.php:69
+msgid "On"
+msgstr ""
+
+#: includes/abstracts/fields.php:299 includes/integration/beaver/module.php:63
+#: includes/integration/beaver/module.php:73
+#: includes/integration/divi/module.php:58
+#: includes/integration/divi/module.php:68
+msgid "Off"
+msgstr ""
+
+#: includes/abstracts/fields.php:365
+msgid "Basic Options"
+msgstr ""
+
+#: includes/abstracts/fields.php:379
+msgid "Enter text for the form field label. Field labels are recommended and can be hidden in the Advanced Settings."
+msgstr ""
+
+#: includes/abstracts/fields.php:385
+msgid "Label"
+msgstr ""
+
+#: includes/abstracts/fields.php:417 includes/fields/multipart.php:76
+msgid "Keys to be stored in database"
+msgstr ""
+
+#: includes/abstracts/fields.php:423 includes/fields/multipart.php:75
+msgid "Meta Key"
+msgstr ""
+
+#: includes/abstracts/fields.php:455
+msgid "Enter text for the form field description."
+msgstr ""
+
+#: includes/abstracts/fields.php:461
+msgid "Description"
+msgstr ""
+
+#: includes/abstracts/fields.php:492
+msgid "Check this option to mark the field required. A form will not submit unless all required fields are provided."
+msgstr ""
+
+#: includes/abstracts/fields.php:499 includes/settings/validation.php:33
+#: includes/shortcodes/form.php:197
+msgid "Required"
+msgstr ""
+
+#: includes/abstracts/fields.php:527
+msgid "Enter a message to show for this field if it's required."
+msgstr ""
+
+#: includes/abstracts/fields.php:533
+msgid "Required Field Message"
+msgstr ""
+
+#: includes/abstracts/fields.php:565 includes/abstracts/fields.php:673
+msgid "Choices"
+msgstr ""
+
+#: includes/abstracts/fields.php:580 includes/abstracts/fields.php:691
+msgid "Add choices for the form field."
+msgstr ""
+
+#: includes/abstracts/fields.php:636
+msgid "Customize the message to display for the GDPR field on the form."
+msgstr ""
+
+#: includes/abstracts/fields.php:637
+msgid "Agreement"
+msgstr ""
+
+#: includes/abstracts/fields.php:754
+msgid "Use image choices"
+msgstr ""
+
+#: includes/abstracts/fields.php:755
+msgid "Check this option to enable using images with the choices."
+msgstr ""
+
+#: includes/abstracts/fields.php:762
+#, php-format
+msgid "This option is only available in the <a href=%s target=\"_blank\">Premium Plan</a>"
+msgstr ""
+
+#: includes/abstracts/fields.php:784
+msgid "Enter text for the default form field value."
+msgstr ""
+
+#: includes/abstracts/fields.php:791
+msgid "Default Value"
+msgstr ""
+
+#: includes/abstracts/fields.php:831
+msgid "Advanced Options"
+msgstr ""
+
+#: includes/abstracts/fields.php:843
+msgid "Enter text for the form field placeholder."
+msgstr ""
+
+#: includes/abstracts/fields.php:849
+msgid "Placeholder Text"
+msgstr ""
+
+#: includes/abstracts/fields.php:879
+msgid "Enter CSS class names for this field container. Multiple class names should be separated with spaces."
+msgstr ""
+
+#: includes/abstracts/fields.php:888
+msgid "CSS Classes"
+msgstr ""
+
+#: includes/abstracts/fields.php:920
+msgid "Select validation type."
+msgstr ""
+
+#: includes/abstracts/fields.php:922
+msgid "Please select type"
+msgstr ""
+
+#: includes/abstracts/fields.php:923
+msgid "Alphabet only with space"
+msgstr ""
+
+#: includes/abstracts/fields.php:924 includes/abstracts/fields.php:972
+msgid "Custom Regex"
+msgstr ""
+
+#: includes/abstracts/fields.php:933
+msgid "Advance Validation"
+msgstr ""
+
+#: includes/abstracts/fields.php:963
+msgid "Enter your desired custom regex."
+msgstr ""
+
+#: includes/abstracts/fields.php:1002
+msgid "Customize the validation message."
+msgstr ""
+
+#: includes/abstracts/fields.php:1011
+msgid "Custom Validation Message"
+msgstr ""
+
+#: includes/abstracts/fields.php:1041
+msgid "Adds search filter to the dropdown."
+msgstr ""
+
+#: includes/abstracts/fields.php:1050
+msgid "Add Search filter"
+msgstr ""
+
+#: includes/abstracts/fields.php:1071
+msgid "Check this option to hide the form field label."
+msgstr ""
+
+#: includes/abstracts/fields.php:1080
+msgid "Hide Label"
+msgstr ""
+
+#: includes/abstracts/fields.php:1101
+msgid "Select the column layout for displaying field choices."
+msgstr ""
+
+#: includes/abstracts/fields.php:1103 includes/admin/builder/settings.php:231
+msgid "One Column"
+msgstr ""
+
+#: includes/abstracts/fields.php:1104
+msgid "Two Columns"
+msgstr ""
+
+#: includes/abstracts/fields.php:1105
+msgid "Three Columns"
+msgstr ""
+
+#: includes/abstracts/fields.php:1106
+msgid "Inline"
+msgstr ""
+
+#: includes/abstracts/fields.php:1115
+msgid "Layout"
+msgstr ""
+
+#: includes/abstracts/fields.php:1151
+msgid "Conditional Logic"
+msgstr ""
+
+#: includes/abstracts/fields.php:1237
+msgid " - "
+msgstr ""
+
+#: includes/abstracts/fields.php:1328
+msgid "No form ID found"
+msgstr ""
+
+#: includes/abstracts/fields.php:1333
+msgid "No field type found"
+msgstr ""
+
+#: includes/abstracts/fields.php:1362
+msgid "Duplicate Field"
+msgstr ""
+
+#: includes/abstracts/fields.php:1363
+msgid "Delete Field"
+msgstr ""
+
+#: includes/abstracts/fields.php:1364 includes/admin/builder/field.php:183
+#: includes/admin/builder/settings.php:12 includes/settings/general.php:26
+#: pie-forms-for-wp.php:355
+msgid "Settings"
+msgstr ""
+
+#: includes/abstracts/fields.php:1474
+msgid "Please enter a valid phone number"
+msgstr ""
+
+#: includes/abstracts/fields.php:1481
+msgid "Please enter a valid url"
+msgstr ""
+
+#: includes/abstracts/fields.php:1491
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: includes/abstracts/fields.php:1496
+msgid "Please enter a valid number"
+msgstr ""
+
+#: includes/abstracts/fields.php:1510
+msgid "You have exceeded the maximum number words"
+msgstr ""
+
+#: includes/abstracts/fields.php:1515
+msgid "You have exceeded the maximum number character"
+msgstr ""
+
+#: includes/abstracts/importer.php:86
+msgid "There was an error while creating a new form."
+msgstr ""
+
+#: includes/admin/adminmenubar.php:34 includes/admin/menus/main.php:27
+#: includes/core/functions.php:18 includes/integration/beaver/module.php:8
+#: includes/integration/beaver/module.php:11
+#: includes/integration/beaver/module.php:45
+#: includes/integration/divi/module.php:24
+#: includes/integration/divi/register.php:144
+#: includes/integration/wpbakery/register.php:57
+#: includes/integration/wpbakery/register.php:60
+#: includes/shortcodes/block.php:68
+msgid "Pie Forms"
+msgstr ""
+
+#: includes/admin/adminmenubar.php:51
+msgid "Add New"
+msgstr ""
+
+#: includes/admin/adminmenubar.php:68 includes/admin/menus/main.php:78
+#: includes/admin/menus/settings.php:22
+msgid "Global Settings"
+msgstr ""
+
+#: includes/admin/adminmenubar.php:85 includes/admin/menus/entries.php:22
+#: includes/admin/menus/entries.php:40
+msgid "Entries"
+msgstr ""
+
+#: includes/admin/adminmenubar.php:102 includes/admin/menus/tools.php:15
+msgid "Tools"
+msgstr ""
+
+#: includes/admin/adminmenubar.php:119 includes/admin/menus/marketing.php:22
+msgid "Marketing"
+msgstr ""
+
+#: includes/admin/adminmenubar.php:136 includes/admin/menus/blockuser.php:21
+msgid "Block User"
+msgstr ""
+
+#: includes/admin/allformtable.php:21 includes/integration/beaver/module.php:48
+#: includes/integration/divi/module.php:46
+#: includes/integration/elementor/widget.php:98
+#: includes/integration/elementor/widget.php:126
+#: includes/shortcodes/block.php:77
+msgid "Form"
+msgstr ""
+
+#: includes/admin/allformtable.php:22
+#: includes/integration/wpbakery/register.php:65
+msgid "Forms"
+msgstr ""
+
+#: includes/admin/allformtable.php:40 includes/admin/builder/settings.php:97
+#: includes/email/tags.php:29 includes/integration/elementor/widget.php:150
+msgid "Form Name"
+msgstr ""
+
+#: includes/admin/allformtable.php:41
+msgid "Shortcodes"
+msgstr ""
+
+#: includes/admin/allformtable.php:42 includes/admin/entriestable.php:95
+msgid "Date Created"
+msgstr ""
+
+#: includes/admin/allformtable.php:220 includes/admin/allformtable.php:318
+#: includes/admin/entriestable.php:332 includes/admin/entriestable.php:532
+msgid "Restore"
+msgstr ""
+
+#: includes/admin/allformtable.php:221
+msgid "Delete permanently"
+msgstr ""
+
+#: includes/admin/allformtable.php:226
+msgid "Move to trash"
+msgstr ""
+
+#: includes/admin/allformtable.php:318
+msgid "Move this item to the restore"
+msgstr ""
+
+#: includes/admin/allformtable.php:332 includes/admin/tools.php:463
+msgid "Edit"
+msgstr ""
+
+#: includes/admin/allformtable.php:334 includes/admin/tools.php:465
+#: includes/templates/form-builder.php:28
+msgid "Preview"
+msgstr ""
+
+#: includes/admin/allformtable.php:336 includes/admin/builder/field.php:181
+msgid "Duplicate"
+msgstr ""
+
+#: includes/admin/allformtable.php:340
+msgid "Move this item to the Trash"
+msgstr ""
+
+#: includes/admin/allformtable.php:340 includes/admin/entriestable.php:320
+#: includes/admin/entriestable.php:517
+msgid "Trash"
+msgstr ""
+
+#: includes/admin/builder/field.php:22
+msgid "Fields"
+msgstr ""
+
+#: includes/admin/builder/field.php:68
+msgid "Form not found."
+msgstr ""
+
+#: includes/admin/builder/field.php:135
+msgid "You don't have any fields yet."
+msgstr ""
+
+#: includes/admin/builder/field.php:182
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/builder/settings.php:56
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/builder/settings.php:57
+msgid "Admin Email Settings"
+msgstr ""
+
+#: includes/admin/builder/settings.php:58
+msgid "User Email Settings"
+msgstr ""
+
+#: includes/admin/builder/settings.php:59
+msgid "Limit and Schedule"
+msgstr ""
+
+#: includes/admin/builder/settings.php:100
+msgid "Give a name to this form"
+msgstr ""
+
+#: includes/admin/builder/settings.php:109
+msgid "Enable Form Title / Name on Front End"
+msgstr ""
+
+#: includes/admin/builder/settings.php:112
+msgid "Enable title on front end"
+msgstr ""
+
+#: includes/admin/builder/settings.php:121
+msgid "Form description"
+msgstr ""
+
+#: includes/admin/builder/settings.php:125
+msgid "Give the description to this form"
+msgstr ""
+
+#: includes/admin/builder/settings.php:133
+msgid "Enable Form Description Front End"
+msgstr ""
+
+#: includes/admin/builder/settings.php:136
+msgid "Enable description on front end"
+msgstr ""
+
+#: includes/admin/builder/settings.php:156
+msgid "Successful form submission message"
+msgstr ""
+
+#: includes/admin/builder/settings.php:160
+msgid "Success message that shows up after submitting form."
+msgstr ""
+
+#: includes/admin/builder/settings.php:178
+msgid "Redirect To"
+msgstr ""
+
+#: includes/admin/builder/settings.php:181
+msgid "Choose where to redirect after form submission."
+msgstr ""
+
+#: includes/admin/builder/settings.php:183
+msgid "Same Page"
+msgstr ""
+
+#: includes/admin/builder/settings.php:184
+#: includes/admin/builder/settings.php:195
+msgid "Pages"
+msgstr ""
+
+#: includes/admin/builder/settings.php:185
+#: includes/admin/builder/settings.php:206
+msgid "External URL"
+msgstr ""
+
+#: includes/admin/builder/settings.php:186
+#: includes/admin/builder/settings.php:216
+msgid "Download URL"
+msgstr ""
+
+#: includes/admin/builder/settings.php:226
+msgid "Layout Design"
+msgstr ""
+
+#: includes/admin/builder/settings.php:229
+msgid "Choose design layout"
+msgstr ""
+
+#: includes/admin/builder/settings.php:232
+msgid "Two Column"
+msgstr ""
+
+#: includes/admin/builder/settings.php:241
+msgid "Form Class"
+msgstr ""
+
+#: includes/admin/builder/settings.php:245
+msgid "Enter CSS class names for the form wrapper. Multiple class names should be separated with spaces."
+msgstr ""
+
+#: includes/admin/builder/settings.php:254
+msgid "Submit Button"
+msgstr ""
+
+#: includes/admin/builder/settings.php:260
+#: includes/admin/builder/settings.php:298
+msgid "Select this checkbox for form Submission type"
+msgstr ""
+
+#: includes/admin/builder/settings.php:268
+msgid "Submit button text"
+msgstr ""
+
+#: includes/admin/builder/settings.php:271
+#: includes/admin/importers/contactform7.php:116
+#: includes/shortcodes/form.php:314
+msgid "Submit"
+msgstr ""
+
+#: includes/admin/builder/settings.php:272
+msgid "Enter desired text for submit button."
+msgstr ""
+
+#: includes/admin/builder/settings.php:280
+msgid "Submit button Icon"
+msgstr ""
+
+#: includes/admin/builder/settings.php:283
+#: includes/admin/builder/settings.php:321
+msgid "fas fa-check"
+msgstr ""
+
+#: includes/admin/builder/settings.php:284
+#: includes/admin/builder/settings.php:310
+#: includes/admin/builder/settings.php:322
+msgid "Enter the submit button text that you would like the button to display while the form submission is processing."
+msgstr ""
+
+#: includes/admin/builder/settings.php:292
+msgid "Submit Button Processing"
+msgstr ""
+
+#: includes/admin/builder/settings.php:306
+msgid "Submit button processing text"
+msgstr ""
+
+#: includes/admin/builder/settings.php:309
+#: includes/admin/importers/contactform7.php:117
+#: includes/shortcodes/form.php:78
+msgid "Processing"
+msgstr ""
+
+#: includes/admin/builder/settings.php:318
+msgid "Submit button processing Icon"
+msgstr ""
+
+#: includes/admin/builder/settings.php:330
+msgid "Submit button class"
+msgstr ""
+
+#: includes/admin/builder/settings.php:333
+msgid "Enter CSS class names for submit button. Multiple class names should be separated with spaces."
+msgstr ""
+
+#: includes/admin/builder/settings.php:341
+msgid "Field description position"
+msgstr ""
+
+#: includes/admin/builder/settings.php:344
+msgid "Choose field description position layout"
+msgstr ""
+
+#: includes/admin/builder/settings.php:346
+msgid "Before"
+msgstr ""
+
+#: includes/admin/builder/settings.php:347
+msgid "After"
+msgstr ""
+
+#: includes/admin/builder/settings.php:359
+msgid "Enable anti-spam honeypot"
+msgstr ""
+
+#: includes/admin/builder/settings.php:371
+msgid "Hide All Labels"
+msgstr ""
+
+#: includes/admin/builder/settings.php:374
+msgid "Hide all forms labels."
+msgstr ""
+
+#: includes/admin/builder/settings.php:382
+msgid "Display All Labels as Placeholder"
+msgstr ""
+
+#: includes/admin/builder/settings.php:385
+msgid "Displays the label text as placeholder."
+msgstr ""
+
+#: includes/admin/builder/settings.php:398
+msgid "Enable Google reCAPTCHA v3"
+msgstr ""
+
+#: includes/admin/builder/settings.php:398
+msgid "Enable Google Invisible reCAPTCHA v2"
+msgstr ""
+
+#: includes/admin/builder/settings.php:398
+msgid "Enable Google Checkbox reCAPTCHA v2"
+msgstr ""
+
+#: includes/admin/builder/settings.php:401
+msgid "Enable Google reCaptcha. Make sure the site key and secret key is set in Global settings."
+msgstr ""
+
+#: includes/admin/builder/settings.php:411
+msgid "Enable Ajax Form Submission"
+msgstr ""
+
+#: includes/admin/builder/settings.php:414
+msgid "Enables form submission without reloading the page."
+msgstr ""
+
+#: includes/admin/builder/settings.php:423
+msgid "Show Submission Message In Popup"
+msgstr ""
+
+#: includes/admin/builder/settings.php:427
+msgid "Enable to show submission message in popup on frontend"
+msgstr ""
+
+#: includes/admin/builder/settings.php:436
+msgid "Disable User Entries"
+msgstr ""
+
+#: includes/admin/builder/settings.php:439
+msgid "Disable storing form submissions on entries table."
+msgstr ""
+
+#: includes/admin/builder/settings.php:448
+msgid "RTL Support"
+msgstr ""
+
+#: includes/admin/builder/settings.php:451
+msgid "Enable right to left entire form."
+msgstr ""
+
+#: includes/admin/builder/settings.php:472
+msgid "Admin Notification"
+msgstr ""
+
+#: includes/admin/builder/settings.php:483
+#: includes/admin/builder/settings.php:626
+#, php-format
+msgid "New Form Entry %s"
+msgstr ""
+
+#: includes/admin/builder/settings.php:494
+msgid "User Notification"
+msgstr ""
+
+#: includes/admin/builder/settings.php:518
+msgid "To Address"
+msgstr ""
+
+#: includes/admin/builder/settings.php:522
+msgid "Enter the recipient's email address (comma separated) to receive form entry notifications"
+msgstr ""
+
+#: includes/admin/builder/settings.php:537
+msgid "Cc Address"
+msgstr ""
+
+#: includes/admin/builder/settings.php:540
+msgid "Enter Cc recipient's email address (comma separated) to receive form entry notifications."
+msgstr ""
+
+#: includes/admin/builder/settings.php:554
+msgid "Bcc Address"
+msgstr ""
+
+#: includes/admin/builder/settings.php:557
+msgid "Enter Bcc recipient's email address (comma separated) to receive form entry notifications."
+msgstr ""
+
+#: includes/admin/builder/settings.php:572
+#: includes/admin/builder/settings.php:718
+msgid "From Name"
+msgstr ""
+
+#: includes/admin/builder/settings.php:575
+#: includes/admin/builder/settings.php:721
+msgid "Enter the From Name to be displayed in Email."
+msgstr ""
+
+#: includes/admin/builder/settings.php:589
+#: includes/admin/builder/settings.php:736
+msgid "From Address"
+msgstr ""
+
+#: includes/admin/builder/settings.php:592
+#: includes/admin/builder/settings.php:739
+msgid "Enter the Email address from which you want to send Email."
+msgstr ""
+
+#: includes/admin/builder/settings.php:606
+msgid "Reply To"
+msgstr ""
+
+#: includes/admin/builder/settings.php:609
+msgid "Enter the reply to email address where you want the email to be received when this email is replied."
+msgstr ""
+
+#: includes/admin/builder/settings.php:623
+msgid "Email Subject"
+msgstr ""
+
+#: includes/admin/builder/settings.php:628
+msgid "Enter the subject of the email."
+msgstr ""
+
+#: includes/admin/builder/settings.php:642
+msgid "Admin Email Message"
+msgstr ""
+
+#: includes/admin/builder/settings.php:644
+msgid "{all_fields}"
+msgstr ""
+
+#: includes/admin/builder/settings.php:646
+#: includes/admin/builder/settings.php:777
+msgid "Enter the message of the email."
+msgstr ""
+
+#: includes/admin/builder/settings.php:654
+#, php-format
+msgid "To display all form fields, use the %s Smart Tag."
+msgstr ""
+
+#: includes/admin/builder/settings.php:689
+msgid "Enable User Email"
+msgstr ""
+
+#: includes/admin/builder/settings.php:692
+msgid "If user email is enabled this will send an email to the user"
+msgstr ""
+
+#: includes/admin/builder/settings.php:701 includes/email/tags.php:32
+msgid "User Email"
+msgstr ""
+
+#: includes/admin/builder/settings.php:704
+msgid "Enter the user's email address (comma separated) to receive form entry notifications"
+msgstr ""
+
+#: includes/admin/builder/settings.php:754
+msgid "User Email Subject"
+msgstr ""
+
+#: includes/admin/builder/settings.php:757
+#, php-format
+msgid "Thank Your For Your Entry - %s"
+msgstr ""
+
+#: includes/admin/builder/settings.php:759
+msgid "Enter the subject of the user email."
+msgstr ""
+
+#: includes/admin/builder/settings.php:774
+msgid "User Email Message"
+msgstr ""
+
+#: includes/admin/builder/settings.php:804
+msgid ""
+"<div  class=\"upgrade-to-pro\"><p>This feature is only available in our Premium Plan. <a href=\n"
+"\t\t\t\t\t\t\t\t\t\"https://pieforms.com/plan-and-pricing/?utm_source=admindashboard&utm_medium=adminfeatures&utm_campaign=formbuilder\" target=\"_blank\"> Upgrade to Premium </a>and enjoy all the amazing features. </p></div>"
+msgstr ""
+
+#: includes/admin/editor.php:40
+msgid "Add Pie Form"
+msgstr ""
+
+#: includes/admin/editor.php:42 includes/admin/editor.php:98
+msgid "Add Form"
+msgstr ""
+
+#: includes/admin/editor.php:58
+msgid "Insert Form"
+msgstr ""
+
+#: includes/admin/editor.php:59
+msgid "Close"
+msgstr ""
+
+#: includes/admin/editor.php:67
+msgid "Select a form below to insert"
+msgstr ""
+
+#: includes/admin/editor.php:78
+#, php-format
+msgid "Whoops, you haven't created a form yet. Want to <a href=\"%s\">give it a go</a>?"
+msgstr ""
+
+#: includes/admin/editor.php:94 includes/enqueue/assets.php:122
+msgid "Cancel"
+msgstr ""
+
+#: includes/admin/entriestable.php:85
+msgid "Whoops, it appears you do not have any form entries yet."
+msgstr ""
+
+#: includes/admin/entriestable.php:96
+msgid "Actions"
+msgstr ""
+
+#: includes/admin/entriestable.php:152
+msgid "Field"
+msgstr ""
+
+#: includes/admin/entriestable.php:319
+msgid "Published"
+msgstr ""
+
+#: includes/admin/entriestable.php:321
+msgid "Unsubscribed"
+msgstr ""
+
+#: includes/admin/entriestable.php:333 includes/admin/entriestable.php:544
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/admin/entriestable.php:337
+msgid "Move to Trash"
+msgstr ""
+
+#: includes/admin/entriestable.php:358
+msgid "Filter"
+msgstr ""
+
+#: includes/admin/entriestable.php:372
+msgid "Filter by form"
+msgstr ""
+
+#: includes/admin/entriestable.php:506
+msgid "Trash form entry"
+msgstr ""
+
+#: includes/admin/entriestable.php:521
+msgid "Restore form entry from trash"
+msgstr ""
+
+#: includes/admin/entriestable.php:533
+msgid "Delete form entry permanently"
+msgstr ""
+
+#: includes/admin/importers/contactform7.php:83
+msgid "Unknown Form"
+msgstr ""
+
+#: includes/admin/importers/contactform7.php:84
+msgid "The form you are trying to import does not exist."
+msgstr ""
+
+#: includes/admin/importers/contactform7.php:151
+msgid "No form fields found."
+msgstr ""
+
+#: includes/admin/importers/contactform7.php:339
+msgid "Acceptance Field"
+msgstr ""
+
+#: includes/admin/importers/contactform7.php:554
+#, php-format
+msgid "%1$s Field %2$s"
+msgstr ""
+
+#: includes/admin/menus/addnew.php:22 includes/admin/menus/main.php:48
+msgid "New Form"
+msgstr ""
+
+#: includes/admin/menus/addonpages/broadcastemail.php:15
+msgid "Broadcast Email"
+msgstr ""
+
+#: includes/admin/menus/addonpages/dripcampaign.php:15
+msgid "Drip Campaign"
+msgstr ""
+
+#: includes/admin/menus/addons.php:15
+msgid "Addons"
+msgstr ""
+
+#: includes/admin/menus/main.php:47
+msgid "All Forms"
+msgstr ""
+
+#: includes/admin/menus/main.php:57
+msgid "Users Per Page"
+msgstr ""
+
+#: includes/admin/menus/main.php:71
+msgid "Make Your Forms Secure with Pie Forms"
+msgstr ""
+
+#: includes/admin/menus/main.php:73
+msgid "Secure forms are crucial for your website. They do not only protect you from spam but also ensures security for your user’s data."
+msgstr ""
+
+#: includes/admin/menus/main.php:80
+msgid "Pie Forms Global settings can be configured from your Pie Forms Admin Dashboard."
+msgstr ""
+
+#: includes/admin/menus/main.php:84 includes/settings/email.php:25
+#: includes/templates/welcome.php:188
+msgid "Email Settings"
+msgstr ""
+
+#: includes/admin/menus/main.php:86
+msgid "A confirmation email sent to your targeted audience to ascertain their online form submission is very essential."
+msgstr ""
+
+#: includes/admin/menus/main.php:90
+msgid "GDPR Compliance"
+msgstr ""
+
+#: includes/admin/menus/main.php:92
+msgid "General Data Protection Regulation (GDPR) is a law by the European Union (EU) requiring explicit consent before collecting or storing user’s data."
+msgstr ""
+
+#: includes/admin/menus/settings.php:38
+msgid "Upload or Choose Your Image"
+msgstr ""
+
+#: includes/admin/menus/settings.php:39
+msgid "Use Image"
+msgstr ""
+
+#: includes/admin/menus/smarttranslation.php:22
+#: includes/templates/smarttranslation.php:9
+msgid "Smart Auto Translation"
+msgstr ""
+
+#: includes/admin/settings.php:38
+msgid "Your settings have been saved."
+msgstr ""
+
+#: includes/admin/settings.php:589 includes/core/functions.php:655
+msgid "Upload Image"
+msgstr ""
+
+#: includes/admin/settings.php:590
+msgid "Remove Image"
+msgstr ""
+
+#: includes/admin/settings.php:677
+msgid "Your Pie Form API key:"
+msgstr ""
+
+#: includes/admin/settings.php:686
+msgid "Please activate License key to get Zapier API key"
+msgstr ""
+
+#: includes/admin/settings.php:716 includes/enqueue/assets.php:157
+#: includes/enqueue/assets.php:189
+#: includes/templates/addonPages/payments.php:70
+#: includes/templates/addons.php:67
+msgid "Get Addon"
+msgstr ""
+
+#: includes/admin/tools.php:23
+msgid "Pie Forms Version"
+msgstr ""
+
+#: includes/admin/tools.php:35
+msgid "PHP Version"
+msgstr ""
+
+#: includes/admin/tools.php:46
+msgid "MySQL Version"
+msgstr ""
+
+#: includes/admin/tools.php:61
+msgid "Wordpress Version"
+msgstr ""
+
+#: includes/admin/tools.php:73
+msgid "Curl"
+msgstr ""
+
+#: includes/admin/tools.php:77 includes/admin/tools.php:96
+#: includes/admin/tools.php:116
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/tools.php:81 includes/admin/tools.php:100
+#: includes/admin/tools.php:120
+msgid "Disable"
+msgstr ""
+
+#: includes/admin/tools.php:92
+msgid "File Get Contents"
+msgstr ""
+
+#: includes/admin/tools.php:113
+msgid "MB String"
+msgstr ""
+
+#: includes/admin/tools.php:134
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: includes/admin/tools.php:138
+msgid "PHP Time Limit"
+msgstr ""
+
+#: includes/admin/tools.php:150
+msgid "WP Memory Limit"
+msgstr ""
+
+#: includes/admin/tools.php:161
+msgid "WP Debug Mode"
+msgstr ""
+
+#: includes/admin/tools.php:165
+msgid "Yes"
+msgstr ""
+
+#: includes/admin/tools.php:169
+msgid "No"
+msgstr ""
+
+#: includes/admin/tools.php:182
+msgid "WP Language"
+msgstr ""
+
+#: includes/admin/tools.php:194
+msgid "WP Max Upload Size"
+msgstr ""
+
+#: includes/admin/tools.php:243
+msgid "Import from Other Form Plugins"
+msgstr ""
+
+#: includes/admin/tools.php:247
+msgid "No form importers are currently enabled."
+msgstr ""
+
+#: includes/admin/tools.php:254
+msgid "Select previous contact form plugin..."
+msgstr ""
+
+#: includes/admin/tools.php:259 includes/core/functions.php:1341
+msgid "Not Installed"
+msgstr ""
+
+#: includes/admin/tools.php:261
+msgid "Not Active"
+msgstr ""
+
+#: includes/admin/tools.php:276 includes/admin/tools.php:336
+#: includes/tools/import.php:15
+msgid "Import"
+msgstr ""
+
+#: includes/admin/tools.php:294
+msgid "Form Import"
+msgstr ""
+
+#: includes/admin/tools.php:300
+msgid "Select the forms you would like to import."
+msgstr ""
+
+#: includes/admin/tools.php:304
+msgid "Available Forms"
+msgstr ""
+
+#: includes/admin/tools.php:309
+msgid "No forms found."
+msgstr ""
+
+#: includes/admin/tools.php:323
+msgid "Select All"
+msgstr ""
+
+#: includes/admin/tools.php:328
+msgid "Forms to Import"
+msgstr ""
+
+#: includes/admin/tools.php:347
+#, php-format
+msgid "Analyzing %1$s of %2$s forms from %3$s."
+msgstr ""
+
+#: includes/admin/tools.php:355
+msgid "Heads Up!"
+msgstr ""
+
+#: includes/admin/tools.php:356
+msgid "One or more of your forms contain fields that are not available in Pie Forms Free"
+msgstr ""
+
+#: includes/admin/tools.php:358
+msgid "Upgrade to Pie Forms Pro"
+msgstr ""
+
+#: includes/admin/tools.php:359
+msgid "Continue Import without Upgrading"
+msgstr ""
+
+#: includes/admin/tools.php:362
+msgid "Below is the list of form fields that may be impacted:"
+msgstr ""
+
+#: includes/admin/tools.php:373
+#, php-format
+msgid "Importing %1$s of %2$s forms from %3$s."
+msgstr ""
+
+#: includes/admin/tools.php:385
+#, php-format
+msgid "Congrats, the import process has finished! We have successfully imported %s forms. You can review the results below."
+msgstr ""
+
+#: includes/admin/tools.php:469
+msgid "The following fields are available in PRO and were not imported:"
+msgstr ""
+
+#: includes/admin/tools.php:477
+msgid "The following fields are available in PRO and were imported as text fields:"
+msgstr ""
+
+#: includes/admin/tools.php:485
+msgid "The following fields are not supported and were not imported:"
+msgstr ""
+
+#: includes/admin/tools.php:494
+msgid "Upgrade to the PRO plan to import these fields."
+msgstr ""
+
+#: includes/api/menu.php:28
+msgid "License Information"
+msgstr ""
+
+#: includes/api/menu.php:29
+msgid "License Key"
+msgstr ""
+
+#: includes/api/menu.php:30
+msgid "License email"
+msgstr ""
+
+#: includes/api/menu.php:35
+msgid "Plugin License Deactivation"
+msgstr ""
+
+#: includes/api/menu.php:36
+msgid "Deactivate Plugin License"
+msgstr ""
+
+#: includes/api/menu.php:109
+msgid "Plugin activated"
+msgstr ""
+
+#: includes/api/menu.php:133 includes/api/menu.php:258
+#: includes/api/menu.php:386 includes/api/menu.php:424
+#: includes/api/menu.php:469
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr ""
+
+#: includes/api/menu.php:153 includes/api/menu.php:159
+#: includes/api/menu.php:165 includes/api/menu.php:171
+#: includes/api/menu.php:177 includes/api/menu.php:189
+#: includes/api/menu.php:266 includes/api/menu.php:270
+#: includes/api/menu.php:275 includes/api/menu.php:279
+#: includes/api/menu.php:283 includes/api/menu.php:291
+#: includes/api/menu.php:295
+msgid ". "
+msgstr ""
+
+#: includes/api/menu.php:245
+msgid "Addon Activated"
+msgstr ""
+
+#: includes/api/menu.php:332
+msgid "The license could not be deactivated. Use the License Deactivation tab to manually deactivate the license before activating a new license."
+msgstr ""
+
+#: includes/api/menu.php:382
+msgid "Addon license deactivated."
+msgstr ""
+
+#: includes/api/menu.php:416 includes/api/menu.php:466
+msgid "Plugin license deactivated."
+msgstr ""
+
+#: includes/api/menu.php:543
+msgid "Deactivates plugin license so it can be used on another blog."
+msgstr ""
+
+#: includes/api/update.php:400
+#, php-format
+msgid "The license key for %s has expired. You can reactivate or purchase a license key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/api/update.php:415
+#, php-format
+msgid "The subscription for %s is on-hold. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/api/update.php:430
+#, php-format
+msgid "The subscription for %s has been cancelled. You can renew the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new license key will be emailed to you after your order has been completed."
+msgstr ""
+
+#: includes/api/update.php:445
+#, php-format
+msgid "The subscription for %s has expired. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/api/update.php:460
+#, php-format
+msgid "The subscription for %s has been suspended. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/api/update.php:475
+#, php-format
+msgid "The subscription for %s is still pending. You can check on the status of the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/api/update.php:490
+#, php-format
+msgid "The subscription for %s has been placed in the trash and will be deleted soon. You can purchase a new subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/api/update.php:505
+#, php-format
+msgid "A subscription for %s could not be found. You can purchase a subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/api/update.php:520
+#, php-format
+msgid "A license key for %s could not be found. Maybe you forgot to enter a license key when setting up %s, or the key was deactivated in your account. You can reactivate or purchase a license key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/api/update.php:535
+#, php-format
+msgid "Download permission for %s has been revoked possibly due to a license key or subscription expiring. You can reactivate or purchase a license key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/api/update.php:550
+#, php-format
+msgid "%s has not been activated. Go to the settings page and enter the license key and license email to activate %s."
+msgstr ""
+
+#: includes/api/update.php:565
+#, php-format
+msgid "You changed the subscription for %s, so you will need to enter your new API License Key in the settings page. The License Key should have arrived in your email inbox, if not you can get it by logging into your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/blockuser/emailaddress.php:10
+msgid "Block User By Email Address"
+msgstr ""
+
+#: includes/blockuser/emailaddress.php:23
+msgid "Note : For every single email address use new line."
+msgstr ""
+
+#: includes/blockuser/emailaddress.php:29
+msgid "Enable Block Email Address"
+msgstr ""
+
+#: includes/blockuser/emailaddress.php:30
+msgid "Do not allow email addresses listed below to fill form on my site"
+msgstr ""
+
+#: includes/blockuser/emailaddress.php:37
+msgid "Email Addresses"
+msgstr ""
+
+#: includes/blockuser/emailaddress.php:39
+msgid "<strong>Example: </strong><br>some@example.com<br>*@domain.com<br>Give (*) to block user containing that domain"
+msgstr ""
+
+#: includes/blockuser/ipaddress.php:10
+msgid "Block User By IP Address"
+msgstr ""
+
+#: includes/blockuser/ipaddress.php:23
+msgid "Note : Enter each IP address on a new line."
+msgstr ""
+
+#: includes/blockuser/ipaddress.php:29
+msgid "Enable Block IP Address"
+msgstr ""
+
+#: includes/blockuser/ipaddress.php:30
+msgid "Do not allow IP Addresses listed below to fill form on my      site"
+msgstr ""
+
+#: includes/blockuser/ipaddress.php:37
+msgid "IP Addresses "
+msgstr ""
+
+#: includes/blockuser/ipaddress.php:39
+msgid "<strong>Example:</strong><br>192.168.1.1<br>192.168.2.0-24 "
+msgstr ""
+
+#: includes/blockuser/username.php:10
+msgid "Block User By Username"
+msgstr ""
+
+#: includes/blockuser/username.php:23
+msgid "Note : For every single username use new line."
+msgstr ""
+
+#: includes/blockuser/username.php:29
+msgid "Enable Block User Name"
+msgstr ""
+
+#: includes/blockuser/username.php:30
+msgid "Do not allow users listed below to fill form on my      site"
+msgstr ""
+
+#: includes/blockuser/username.php:37
+msgid "Usernames "
+msgstr ""
+
+#: includes/blockuser/username.php:39
+msgid "<strong>Example:</strong><br>johnny<br>downey<br>Give (*) to block user containing that username"
+msgstr ""
+
+#: includes/core/ajax.php:49
+msgid "Invalid form"
+msgstr ""
+
+#: includes/core/ajax.php:96
+msgid "Blank Form"
+msgstr ""
+
+#: includes/core/ajax.php:145
+msgid "Something went wrong, please try again later"
+msgstr ""
+
+#: includes/core/ajax.php:158
+msgid "No data provided"
+msgstr ""
+
+#: includes/core/ajax.php:226
+msgid "Meta Key missing"
+msgstr ""
+
+#: includes/core/ajax.php:228
+#, php-format
+msgid "Please add Meta key for fields: %s"
+msgstr ""
+
+#: includes/core/ajax.php:246
+msgid "Form not found"
+msgstr ""
+
+#: includes/core/ajax.php:247
+msgid "An error occurred while saving the form."
+msgstr ""
+
+#: includes/core/ajax.php:285
+msgid "Plugin activation is disabled for you on this site."
+msgstr ""
+
+#: includes/core/ajax.php:301
+msgid "Plugin activated."
+msgstr ""
+
+#: includes/core/ajax.php:303
+msgid "Addon activated."
+msgstr ""
+
+#: includes/core/ajax.php:308
+msgid "Could not activate addon. Please activate from the Plugins page."
+msgstr ""
+
+#: includes/core/ajax.php:320
+msgid "Plugin deactivation is disabled for you on this site."
+msgstr ""
+
+#: includes/core/ajax.php:336
+msgid "Plugin deactivated."
+msgstr ""
+
+#: includes/core/ajax.php:338
+msgid "Addon deactivated."
+msgstr ""
+
+#: includes/core/ajax.php:342
+msgid "Could not deactivate the addon. Please deactivate from the Plugins page."
+msgstr ""
+
+#: includes/core/ajax.php:352
+msgid "Your session expired. Please reload the page."
+msgstr ""
+
+#: includes/core/ajax.php:355
+msgid "There was an error while performing your request."
+msgstr ""
+
+#: includes/core/ajax.php:361
+msgid "Could not install addon. Please download from pieforms.com and install manually."
+msgstr ""
+
+#: includes/core/ajax.php:428
+msgid "Plugin installed."
+msgstr ""
+
+#: includes/core/ajax.php:428
+msgid "Addon installed."
+msgstr ""
+
+#: includes/core/ajax.php:438
+msgid "Plugin installed & activated."
+msgstr ""
+
+#: includes/core/ajax.php:438
+msgid "Addon installed & activated."
+msgstr ""
+
+#: includes/core/functions.php:51
+msgid "Basic Fields"
+msgstr ""
+
+#: includes/core/functions.php:52
+msgid "Advanced Fields"
+msgstr ""
+
+#: includes/core/functions.php:53
+msgid "Payment Fields"
+msgstr ""
+
+#: includes/core/functions.php:54
+msgid "Survey Fields"
+msgstr ""
+
+#: includes/core/functions.php:66
+msgid "US dollar ($)"
+msgstr ""
+
+#: includes/core/functions.php:67
+msgid "Euro (€)"
+msgstr ""
+
+#: includes/core/functions.php:68
+msgid "British Pounds (£)"
+msgstr ""
+
+#: includes/core/functions.php:69
+msgid "Canadian dollars (Can$)"
+msgstr ""
+
+#: includes/core/functions.php:83
+msgid "U.S. Dollar"
+msgstr ""
+
+#: includes/core/functions.php:91
+msgid "Pound Sterling"
+msgstr ""
+
+#: includes/core/functions.php:99
+msgid "Euro"
+msgstr ""
+
+#: includes/core/functions.php:107
+msgid "Australian Dollar"
+msgstr ""
+
+#: includes/core/functions.php:115
+msgid "Brazilian Real"
+msgstr ""
+
+#: includes/core/functions.php:123
+msgid "Canadian Dollar"
+msgstr ""
+
+#: includes/core/functions.php:131
+msgid "Czech Koruna"
+msgstr ""
+
+#: includes/core/functions.php:139
+msgid "Danish Krone"
+msgstr ""
+
+#: includes/core/functions.php:147
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: includes/core/functions.php:155
+msgid "Hungarian Forint"
+msgstr ""
+
+#: includes/core/functions.php:163
+msgid "Israeli New Sheqel"
+msgstr ""
+
+#: includes/core/functions.php:171
+msgid "Malaysian Ringgit"
+msgstr ""
+
+#: includes/core/functions.php:179
+msgid "Mexican Peso"
+msgstr ""
+
+#: includes/core/functions.php:187
+msgid "Norwegian Krone"
+msgstr ""
+
+#: includes/core/functions.php:195
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: includes/core/functions.php:203
+msgid "Philippine Peso"
+msgstr ""
+
+#: includes/core/functions.php:211
+msgid "Polish Zloty"
+msgstr ""
+
+#: includes/core/functions.php:219
+msgid "Russian Ruble"
+msgstr ""
+
+#: includes/core/functions.php:227
+msgid "Singapore Dollar"
+msgstr ""
+
+#: includes/core/functions.php:235
+msgid "South African Rand"
+msgstr ""
+
+#: includes/core/functions.php:243
+msgid "Swedish Krona"
+msgstr ""
+
+#: includes/core/functions.php:251
+msgid "Swiss Franc"
+msgstr ""
+
+#: includes/core/functions.php:259
+msgid "Taiwan New Dollar"
+msgstr ""
+
+#: includes/core/functions.php:267
+msgid "Thai Baht"
+msgstr ""
+
+#: includes/core/functions.php:662
+msgid "Remove"
+msgstr ""
+
+#: includes/core/functions.php:663
+msgid "Change image"
+msgstr ""
+
+#: includes/core/functions.php:820
+msgid "Field #"
+msgstr ""
+
+#: includes/core/functions.php:926
+msgid "Available Fields"
+msgstr ""
+
+#: includes/core/functions.php:930
+msgid "Others"
+msgstr ""
+
+#: includes/core/functions.php:1202 includes/settings/validation.php:39
+#: includes/shortcodes/form.php:317
+msgid "This field is required."
+msgstr ""
+
+#: includes/core/functions.php:1280 includes/core/functions.php:1320
+msgid "Active"
+msgstr ""
+
+#: includes/core/functions.php:1283
+msgid "Deactivate"
+msgstr ""
+
+#: includes/core/functions.php:1288
+msgid "In-Active"
+msgstr ""
+
+#: includes/core/functions.php:1291 includes/core/functions.php:1331
+msgid "Activate"
+msgstr ""
+
+#: includes/core/functions.php:1304
+msgid "Learn More"
+msgstr ""
+
+#: includes/core/functions.php:1323
+msgid "Activated"
+msgstr ""
+
+#: includes/core/functions.php:1328
+msgid "Inactive"
+msgstr ""
+
+#: includes/core/functions.php:1344
+msgid "Install Plugin"
+msgstr ""
+
+#: includes/core/functions.php:1377
+msgid "Arabic"
+msgstr ""
+
+#: includes/core/functions.php:1378
+msgid "Afrikaans"
+msgstr ""
+
+#: includes/core/functions.php:1379
+msgid "Amharic"
+msgstr ""
+
+#: includes/core/functions.php:1380
+msgid "Armenian"
+msgstr ""
+
+#: includes/core/functions.php:1381
+msgid "Azerbaijani"
+msgstr ""
+
+#: includes/core/functions.php:1382
+msgid "Basque"
+msgstr ""
+
+#: includes/core/functions.php:1383
+msgid "Bengali"
+msgstr ""
+
+#: includes/core/functions.php:1384
+msgid "Bulgarian"
+msgstr ""
+
+#: includes/core/functions.php:1385
+msgid "Catalan"
+msgstr ""
+
+#: includes/core/functions.php:1386
+msgid "Chinese (Hong Kong)"
+msgstr ""
+
+#: includes/core/functions.php:1387
+msgid "Chinese (Simplified)"
+msgstr ""
+
+#: includes/core/functions.php:1388
+msgid "Chinese (Traditional)"
+msgstr ""
+
+#: includes/core/functions.php:1389
+msgid "Croatian"
+msgstr ""
+
+#: includes/core/functions.php:1390
+msgid "Czech"
+msgstr ""
+
+#: includes/core/functions.php:1391
+msgid "Danish"
+msgstr ""
+
+#: includes/core/functions.php:1392
+msgid "Dutch *"
+msgstr ""
+
+#: includes/core/functions.php:1393
+msgid "English (UK)"
+msgstr ""
+
+#: includes/core/functions.php:1394
+msgid "English (US) *"
+msgstr ""
+
+#: includes/core/functions.php:1395
+msgid "Estonian"
+msgstr ""
+
+#: includes/core/functions.php:1396
+msgid "Filipino"
+msgstr ""
+
+#: includes/core/functions.php:1397
+msgid "Finnish"
+msgstr ""
+
+#: includes/core/functions.php:1398
+msgid "French *"
+msgstr ""
+
+#: includes/core/functions.php:1399
+msgid "French (Canadian)"
+msgstr ""
+
+#: includes/core/functions.php:1400
+msgid "Galician"
+msgstr ""
+
+#: includes/core/functions.php:1401
+msgid "Georgian"
+msgstr ""
+
+#: includes/core/functions.php:1402
+msgid "German *"
+msgstr ""
+
+#: includes/core/functions.php:1403
+msgid "German (Austria)"
+msgstr ""
+
+#: includes/core/functions.php:1404
+msgid "German (Switzerland)"
+msgstr ""
+
+#: includes/core/functions.php:1405
+msgid "Greek"
+msgstr ""
+
+#: includes/core/functions.php:1406
+msgid "Gujarati"
+msgstr ""
+
+#: includes/core/functions.php:1407
+msgid "Hebrew"
+msgstr ""
+
+#: includes/core/functions.php:1408
+msgid "Hindi"
+msgstr ""
+
+#: includes/core/functions.php:1409
+msgid "Hungarain"
+msgstr ""
+
+#: includes/core/functions.php:1410
+msgid "Icelandic"
+msgstr ""
+
+#: includes/core/functions.php:1411
+msgid "Indonesian"
+msgstr ""
+
+#: includes/core/functions.php:1412
+msgid "Italian *"
+msgstr ""
+
+#: includes/core/functions.php:1413
+msgid "Japanese"
+msgstr ""
+
+#: includes/core/functions.php:1414
+msgid "Kannada"
+msgstr ""
+
+#: includes/core/functions.php:1415
+msgid "Korean"
+msgstr ""
+
+#: includes/core/functions.php:1416
+msgid "Laothian"
+msgstr ""
+
+#: includes/core/functions.php:1417
+msgid "Latvian"
+msgstr ""
+
+#: includes/core/functions.php:1418
+msgid "Lithuanian"
+msgstr ""
+
+#: includes/core/functions.php:1419
+msgid "Malay"
+msgstr ""
+
+#: includes/core/functions.php:1420
+msgid "Malayalam"
+msgstr ""
+
+#: includes/core/functions.php:1421
+msgid "Marathi"
+msgstr ""
+
+#: includes/core/functions.php:1422
+msgid "Mongolian"
+msgstr ""
+
+#: includes/core/functions.php:1423
+msgid "Norwegian"
+msgstr ""
+
+#: includes/core/functions.php:1424
+msgid "Persian"
+msgstr ""
+
+#: includes/core/functions.php:1425
+msgid "Polish"
+msgstr ""
+
+#: includes/core/functions.php:1426
+msgid "Portuguese *"
+msgstr ""
+
+#: includes/core/functions.php:1427
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: includes/core/functions.php:1428
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: includes/core/functions.php:1429
+msgid "Romanian"
+msgstr ""
+
+#: includes/core/functions.php:1430
+msgid "Russian"
+msgstr ""
+
+#: includes/core/functions.php:1431
+msgid "Serbian"
+msgstr ""
+
+#: includes/core/functions.php:1432
+msgid "Sinhalese"
+msgstr ""
+
+#: includes/core/functions.php:1433
+msgid "Slovak"
+msgstr ""
+
+#: includes/core/functions.php:1434
+msgid "Slovenian"
+msgstr ""
+
+#: includes/core/functions.php:1435
+msgid "Spanish *"
+msgstr ""
+
+#: includes/core/functions.php:1436
+msgid "Spanish (Latin America)"
+msgstr ""
+
+#: includes/core/functions.php:1437
+msgid "Swahili"
+msgstr ""
+
+#: includes/core/functions.php:1438
+msgid "Swedish"
+msgstr ""
+
+#: includes/core/functions.php:1439
+msgid "Tamil"
+msgstr ""
+
+#: includes/core/functions.php:1440
+msgid "Telugu"
+msgstr ""
+
+#: includes/core/functions.php:1441
+msgid "Thai"
+msgstr ""
+
+#: includes/core/functions.php:1442
+msgid "Turkish"
+msgstr ""
+
+#: includes/core/functions.php:1443
+msgid "Ukrainian"
+msgstr ""
+
+#: includes/core/functions.php:1444
+msgid "Urdu"
+msgstr ""
+
+#: includes/core/functions.php:1445
+msgid "Vietnamese"
+msgstr ""
+
+#: includes/core/functions.php:1446
+msgid "Zulu"
+msgstr ""
+
+#: includes/core/functions.php:1964
+#, php-format
+msgid "Item %s"
+msgstr ""
+
+#: includes/email/settings.php:381 includes/email/settings.php:485
+msgid " "
+msgstr ""
+
+#: includes/email/settings.php:458 includes/email/settings.php:504
+#, php-format
+msgid "Field ID #%d"
+msgstr ""
+
+#: includes/email/settings.php:516
+msgid "An empty form was submitted."
+msgstr ""
+
+#: includes/email/tags.php:23
+msgid "Site Admin Email"
+msgstr ""
+
+#: includes/email/tags.php:24
+msgid "Site Name"
+msgstr ""
+
+#: includes/email/tags.php:25
+msgid "Site URL"
+msgstr ""
+
+#: includes/email/tags.php:26
+msgid "Page/Post Title"
+msgstr ""
+
+#: includes/email/tags.php:27
+msgid "Page/Post URL"
+msgstr ""
+
+#: includes/email/tags.php:28
+msgid "Page ID"
+msgstr ""
+
+#: includes/email/tags.php:30
+msgid "User ID"
+msgstr ""
+
+#: includes/email/tags.php:31
+msgid "User Name"
+msgstr ""
+
+#: includes/email/tags.php:33
+msgid "Referrer URL"
+msgstr ""
+
+#: includes/enqueue/assets.php:121
+msgid "OK"
+msgstr ""
+
+#: includes/enqueue/assets.php:124
+msgid "Are you sure you want to delete this field?"
+msgstr ""
+
+#: includes/enqueue/assets.php:125
+msgid "This item must contain at least one choice."
+msgstr ""
+
+#: includes/enqueue/assets.php:126
+msgid "(copy)"
+msgstr ""
+
+#: includes/enqueue/assets.php:130
+msgid "Form Name Required "
+msgstr ""
+
+#: includes/enqueue/assets.php:131
+msgid "Please enter form name"
+msgstr ""
+
+#: includes/enqueue/assets.php:144 includes/enqueue/assets.php:148
+msgid "is part of the Premium Plan"
+msgstr ""
+
+#: includes/enqueue/assets.php:145 includes/enqueue/assets.php:149
+msgid "Upgrade to Premium, and unlock all the amazing fields and features."
+msgstr ""
+
+#: includes/enqueue/assets.php:146 includes/enqueue/assets.php:150
+#: includes/enqueue/assets.php:183
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: includes/enqueue/assets.php:152
+msgid "is available in Paypal Donation Addon"
+msgstr ""
+
+#: includes/enqueue/assets.php:153
+msgid "Get Paypal Donation addon for free."
+msgstr ""
+
+#: includes/enqueue/assets.php:154
+msgid "Get Now"
+msgstr ""
+
+#: includes/enqueue/assets.php:155
+msgid "is part of Quiz Addon"
+msgstr ""
+
+#: includes/enqueue/assets.php:156
+msgid "Get the Quiz Addon, and unlock all the amazing Quiz features."
+msgstr ""
+
+#: includes/enqueue/assets.php:184
+msgid ""
+"Upgrade to Premium, and unlock all the amazing templates and features.\n"
+"\t\t\t\t\t\t\t"
+msgstr ""
+
+#: includes/enqueue/assets.php:186
+msgid "Template is part of the Premium Plan"
+msgstr ""
+
+#: includes/enqueue/assets.php:187
+msgid "Template is part of our Quiz Addon"
+msgstr ""
+
+#: includes/enqueue/assets.php:188
+msgid "Get this Quiz Addon and you can unlock all the amazing Quiz features for your website"
+msgstr ""
+
+#: includes/fields/address.php:19
+msgid "Address"
+msgstr ""
+
+#: includes/fields/checkbox.php:11
+msgid "Checkboxes"
+msgstr ""
+
+#: includes/fields/checkbox.php:18 includes/fields/radio.php:17
+msgid "First Choice"
+msgstr ""
+
+#: includes/fields/checkbox.php:24 includes/fields/radio.php:24
+msgid "Second Choice"
+msgstr ""
+
+#: includes/fields/checkbox.php:30 includes/fields/radio.php:31
+msgid "Third Choice"
+msgstr ""
+
+#: includes/fields/checkbox.php:106
+msgid "Checked"
+msgstr ""
+
+#: includes/fields/checkbox.php:109
+#, php-format
+msgid "Choice %s"
+msgstr ""
+
+#: includes/fields/checkout.php:10
+msgid "Checkout"
+msgstr ""
+
+#: includes/fields/country.php:11
+msgid "Country"
+msgstr ""
+
+#: includes/fields/date.php:10
+msgid "Date"
+msgstr ""
+
+#: includes/fields/datetime.php:10
+msgid "Date / Time"
+msgstr ""
+
+#: includes/fields/email.php:10 includes/settings/email.php:12
+#: includes/settings/validation.php:51
+msgid "Email"
+msgstr ""
+
+#: includes/fields/fileupload.php:22 includes/templates/related-features.php:25
+msgid "File Upload"
+msgstr ""
+
+#: includes/fields/fileupload.php:69
+msgid "Allowed File Extensions"
+msgstr ""
+
+#: includes/fields/fileupload.php:70
+msgid "Enter the extensions you would like to allow, comma separated."
+msgstr ""
+
+#: includes/fields/fileupload.php:103
+msgid "Max File Size"
+msgstr ""
+
+#: includes/fields/fileupload.php:105
+#, php-format
+msgid "Enter the max size of each file, in megabytes, to allow. If left blank, the value defaults to the maximum size the server allows which is %s."
+msgstr ""
+
+#: includes/fields/fileupload.php:144
+msgid ""
+"<i>The‌ ‌Premium‌ ‌version‌ ‌allows‌ ‌multiple‌ ‌uploads‌ ‌through‌ ‌the‌ ‌Modern‌ ‌method,‌ ‌conditional‌ ‌logic,‌ ‌\n"
+"\t\t\t\tand‌ ‌storing‌ ‌files‌ ‌in‌ ‌the‌ ‌WP‌ ‌media‌ ‌library.‌</i>"
+msgstr ""
+
+#: includes/fields/fileupload.php:168
+msgid "File upload will not work with the ajax form submission‌"
+msgstr ""
+
+#: includes/fields/fileupload.php:246
+msgid "Drop your file here or click here to upload."
+msgstr ""
+
+#: includes/fields/fileupload.php:247
+msgid "Drop your files here or click here to upload."
+msgstr ""
+
+#: includes/fields/fileupload.php:249
+#, php-format
+msgid "You can upload up to %s files."
+msgstr ""
+
+#: includes/fields/fileupload.php:647
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini."
+msgstr ""
+
+#: includes/fields/fileupload.php:648
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form."
+msgstr ""
+
+#: includes/fields/fileupload.php:649
+msgid "The uploaded file was only partially uploaded."
+msgstr ""
+
+#: includes/fields/fileupload.php:650
+msgid "No file was uploaded."
+msgstr ""
+
+#: includes/fields/fileupload.php:652
+msgid "Missing a temporary folder."
+msgstr ""
+
+#: includes/fields/fileupload.php:653
+msgid "Failed to write file to disk."
+msgstr ""
+
+#: includes/fields/fileupload.php:654
+msgid "File upload stopped by extension."
+msgstr ""
+
+#: includes/fields/fileupload.php:659
+#, php-format
+msgid "File upload error. %s"
+msgstr ""
+
+#: includes/fields/fileupload.php:693
+#, php-format
+msgid "File exceeds max size allowed (%s)."
+msgstr ""
+
+#: includes/fields/fileupload.php:715
+msgid "File must have an extension."
+msgstr ""
+
+#: includes/fields/fileupload.php:720 includes/fields/fileupload.php:746
+msgid "File type is not allowed."
+msgstr ""
+
+#: includes/fields/gdpr.php:12
+msgid "GDPR Agreement"
+msgstr ""
+
+#: includes/fields/gdpr.php:19
+msgid "I consent to having this website store my submitted information so they can respond to my inquiry."
+msgstr ""
+
+#: includes/fields/hidden.php:8
+msgid "Hidden"
+msgstr ""
+
+#: includes/fields/html.php:8
+msgid "HTML / Code Block"
+msgstr ""
+
+#: includes/fields/imageupload.php:8
+msgid "Image Upload"
+msgstr ""
+
+#: includes/fields/multipart.php:10
+msgid "Multipart"
+msgstr ""
+
+#: includes/fields/multipart.php:101
+msgid "Progress Bar"
+msgstr ""
+
+#: includes/fields/multipart.php:102
+msgid "Circles"
+msgstr ""
+
+#: includes/fields/multipart.php:103
+msgid "Connector"
+msgstr ""
+
+#: includes/fields/multipart.php:104
+msgid "None"
+msgstr ""
+
+#: includes/fields/multipart.php:111
+msgid "Progress Indicator"
+msgstr ""
+
+#: includes/fields/multipart.php:112
+msgid "Select theme for Page Indicator which is displayed at the top of the form."
+msgstr ""
+
+#: includes/fields/multipart.php:137
+msgid "Page Indicator Color"
+msgstr ""
+
+#: includes/fields/multipart.php:138
+msgid "Select the primary color for the Page Indicator theme."
+msgstr ""
+
+#: includes/fields/multipart.php:166
+msgid "Page Title"
+msgstr ""
+
+#: includes/fields/multipart.php:167
+msgid "Enter text for the page title."
+msgstr ""
+
+#: includes/fields/multipart.php:193
+msgid "\"Next\" Label"
+msgstr ""
+
+#: includes/fields/multipart.php:194
+msgid "Enter text for Next page navigation button."
+msgstr ""
+
+#: includes/fields/multipart.php:203
+msgid "Next"
+msgstr ""
+
+#: includes/fields/multipart.php:222
+msgid "Display Previous"
+msgstr ""
+
+#: includes/fields/multipart.php:223
+msgid "Toggle displaying the Previous page navigation button."
+msgstr ""
+
+#: includes/fields/multipart.php:247
+msgid "\"Previous\" Label"
+msgstr ""
+
+#: includes/fields/multipart.php:248
+msgid "Enter text for Previous page navigation button."
+msgstr ""
+
+#: includes/fields/multipart.php:257
+msgid "Previous"
+msgstr ""
+
+#: includes/fields/multiselect.php:9
+msgid "Multiselect Dropdown"
+msgstr ""
+
+#: includes/fields/multiselect.php:16 includes/fields/select.php:18
+msgid "Option 1"
+msgstr ""
+
+#: includes/fields/multiselect.php:22 includes/fields/select.php:24
+msgid "Option 2"
+msgstr ""
+
+#: includes/fields/multiselect.php:28 includes/fields/select.php:30
+msgid "Option 3"
+msgstr ""
+
+#: includes/fields/name.php:8
+msgid "Name"
+msgstr ""
+
+#: includes/fields/number.php:10 includes/settings/validation.php:69
+msgid "Number"
+msgstr ""
+
+#: includes/fields/number.php:62
+msgid "Step"
+msgstr ""
+
+#: includes/fields/number.php:63
+msgid "Allows users to enter specific legal number intervals."
+msgstr ""
+
+#: includes/fields/number.php:98
+msgid "Min Value"
+msgstr ""
+
+#: includes/fields/number.php:99
+msgid "Minimum value user is allowed to enter."
+msgstr ""
+
+#: includes/fields/number.php:134
+msgid "Max Value"
+msgstr ""
+
+#: includes/fields/number.php:135
+msgid "Maximum value user is allowed to enter."
+msgstr ""
+
+#: includes/fields/paymentmultiple.php:15
+msgid "Multiple Items"
+msgstr ""
+
+#: includes/fields/paymentmultiple.php:22
+msgid "First Item"
+msgstr ""
+
+#: includes/fields/paymentmultiple.php:28
+msgid "Second Item"
+msgstr ""
+
+#: includes/fields/paymentmultiple.php:34
+msgid "Third Item"
+msgstr ""
+
+#: includes/fields/paymentmultiple.php:231
+msgid "Show price after item labels"
+msgstr ""
+
+#: includes/fields/paymentmultiple.php:232
+msgid "Check this option to show price of the item after the label."
+msgstr ""
+
+#: includes/fields/paymentmultiple.php:281 includes/fields/radio.php:202
+msgid "Show Values"
+msgstr ""
+
+#: includes/fields/paymentmultiple.php:282 includes/fields/radio.php:203
+msgid "Check this to manually set form field values."
+msgstr ""
+
+#: includes/fields/paymentsingle.php:9
+msgid "Single Item"
+msgstr ""
+
+#: includes/fields/paymentsingle.php:129
+msgid "Price Type"
+msgstr ""
+
+#: includes/fields/paymentsingle.php:130
+msgid "Select a type to take payments."
+msgstr ""
+
+#: includes/fields/paymentsingle.php:141
+msgid "Fixed"
+msgstr ""
+
+#: includes/fields/paymentsingle.php:142
+msgid "User Defined"
+msgstr ""
+
+#: includes/fields/paymentsingle.php:168
+msgid "Price"
+msgstr ""
+
+#: includes/fields/paymentsingle.php:169
+msgid "Add a price you want to take with this form."
+msgstr ""
+
+#: includes/fields/phone.php:10
+msgid "Phone"
+msgstr ""
+
+#: includes/fields/radio.php:10
+msgid "Radio Buttons"
+msgstr ""
+
+#: includes/fields/radio.php:179
+msgid "Randomize Choices"
+msgstr ""
+
+#: includes/fields/radio.php:180
+msgid "Check this option to randomize the order of the choices."
+msgstr ""
+
+#: includes/fields/rating.php:11
+msgid "Rating"
+msgstr ""
+
+#: includes/fields/sectiontitle.php:8
+msgid "Section Title"
+msgstr ""
+
+#: includes/fields/select.php:11
+msgid "Select Dropdown"
+msgstr ""
+
+#: includes/fields/signature.php:8
+msgid "Signature"
+msgstr ""
+
+#: includes/fields/singletext.php:10
+msgid "Single Line Text"
+msgstr ""
+
+#: includes/fields/textarea.php:12
+msgid "Text Area"
+msgstr ""
+
+#: includes/fields/textarea.php:62
+msgid "Limit Length"
+msgstr ""
+
+#: includes/fields/textarea.php:63
+msgid "Check this option to limit text length by characters or words count."
+msgstr ""
+
+#: includes/fields/textarea.php:96
+msgid "Characters"
+msgstr ""
+
+#: includes/fields/textarea.php:97
+msgid "Words Count"
+msgstr ""
+
+#: includes/fields/url.php:10
+msgid "Website / URL"
+msgstr ""
+
+#: includes/form/task.php:46
+msgid "We were unable to process your form, please try again."
+msgstr ""
+
+#: includes/form/task.php:107 includes/form/task.php:198
+#: includes/form/task.php:212
+msgid "Form has not been submitted, please see the errors below."
+msgstr ""
+
+#: includes/form/task.php:129
+msgid "Google reCAPTCHA verification failed, please try again later."
+msgstr ""
+
+#: includes/form/task.php:160
+msgid "Pie Forms honeypot field triggered."
+msgstr ""
+
+#: includes/form/task.php:301
+msgid "No form ID was found."
+msgstr ""
+
+#: includes/form/task.php:308
+msgid "Could not create an entry"
+msgstr ""
+
+#: includes/form/task.php:461
+#, php-format
+msgid "New %s Entry"
+msgstr ""
+
+#: includes/form/task.php:528
+msgid "Thank Your For Your Entry"
+msgstr ""
+
+#: includes/integration/beaver/module.php:9
+msgid "A totally awesome forms!"
+msgstr ""
+
+#: includes/integration/beaver/module.php:10
+msgid "pie Forms"
+msgstr ""
+
+#: includes/integration/beaver/module.php:42
+#: includes/integration/beaver/module.php:54
+#: includes/integration/divi/module.php:42
+msgid "Select form"
+msgstr ""
+
+#: includes/integration/beaver/module.php:58
+#: includes/integration/divi/module.php:53 includes/shortcodes/block.php:78
+msgid "Show Title"
+msgstr ""
+
+#: includes/integration/beaver/module.php:68
+#: includes/integration/divi/module.php:63 includes/shortcodes/block.php:79
+msgid "Show Description"
+msgstr ""
+
+#: includes/integration/elementor/widget.php:34
+msgid "pieforms"
+msgstr ""
+
+#: includes/integration/elementor/widget.php:112
+msgid "<b>You haven't created a form yet.</b><br> What are you waiting for?"
+msgstr ""
+
+#: includes/integration/elementor/widget.php:139
+msgid "Display Options"
+msgstr ""
+
+#: includes/integration/elementor/widget.php:152
+#: includes/integration/elementor/widget.php:166
+msgid "Show"
+msgstr ""
+
+#: includes/integration/elementor/widget.php:153
+#: includes/integration/elementor/widget.php:167
+msgid "Hide"
+msgstr ""
+
+#: includes/integration/elementor/widget.php:164
+msgid "Form Description"
+msgstr ""
+
+#: includes/integration/elementor/widget.php:260
+msgid "Select a form"
+msgstr ""
+
+#: includes/integration/wpbakery/register.php:59
+msgid "The Easiest Drag and Drop WordPress Form Plugin"
+msgstr ""
+
+#: includes/notices/notices.php:51
+msgid "Here’s how you can do it"
+msgstr ""
+
+#: includes/notices/notices.php:59
+msgid "Mail Chimp Addon"
+msgstr ""
+
+#: includes/notices/notices.php:60
+msgid "Connect your MailChimp account with Pie Forms and add users to your MailChimp list directly on form submissions."
+msgstr ""
+
+#: includes/notices/notices.php:63 includes/notices/notices.php:139
+msgid "Download Now"
+msgstr ""
+
+#: includes/notices/notices.php:64
+msgid "mailchimp"
+msgstr ""
+
+#: includes/notices/notices.php:76 includes/settings/licence.php:220
+msgid "Zapier Addon"
+msgstr ""
+
+#: includes/notices/notices.php:77
+msgid "Automate your work in minutes with Pie Form’s Zapier Addon."
+msgstr ""
+
+#: includes/notices/notices.php:80 includes/notices/notices.php:96
+#: includes/notices/notices.php:117
+msgid "Get It Now"
+msgstr ""
+
+#: includes/notices/notices.php:81
+msgid "zapier"
+msgstr ""
+
+#: includes/notices/notices.php:92
+msgid "Paypal Addon"
+msgstr ""
+
+#: includes/notices/notices.php:93
+msgid "Collect payments and donations easily for your website with Pie Forms Paypal Payment Addon."
+msgstr ""
+
+#: includes/notices/notices.php:97
+msgid "paypal"
+msgstr ""
+
+#: includes/notices/notices.php:113 includes/settings/licence.php:201
+msgid "Stripe Addon"
+msgstr ""
+
+#: includes/notices/notices.php:114
+msgid "Easily collect payments and donations online with our Stripe addon."
+msgstr ""
+
+#: includes/notices/notices.php:118
+msgid "stripe"
+msgstr ""
+
+#: includes/notices/notices.php:135
+msgid "Smart Translation Addon"
+msgstr ""
+
+#: includes/notices/notices.php:136
+msgid "Translate user response with Google Translate or Deepl using Smart Translation Add-on."
+msgstr ""
+
+#: includes/notices/notices.php:210 includes/notices/notices.php:219
+#: includes/notices/notices.php:228 includes/notices/notices.php:237
+#: includes/notices/notices.php:246
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/settings/email.php:30
+msgid "Enable copies"
+msgstr ""
+
+#: includes/settings/email.php:31
+msgid "Enable the use of Cc and Bcc email addresses."
+msgstr ""
+
+#: includes/settings/email.php:37
+msgid "Template"
+msgstr ""
+
+#: includes/settings/email.php:40
+msgid "Enable HTML Template."
+msgstr ""
+
+#: includes/settings/email.php:44
+msgid "Header Image"
+msgstr ""
+
+#: includes/settings/email.php:45
+msgid "Upload or choose a logo to be displayed at the top of email notifications.<br>Recommended size is 300x100 or smaller for best support on all devices."
+msgstr ""
+
+#: includes/settings/email.php:52
+msgid "Background Color"
+msgstr ""
+
+#: includes/settings/email.php:60
+msgid "Footer Content"
+msgstr ""
+
+#: includes/settings/email.php:68
+msgid "Show footer in email."
+msgstr ""
+
+#: includes/settings/general.php:12
+msgid "General"
+msgstr ""
+
+#: includes/settings/general.php:32
+msgid "Check this to enable GDPR related features and enhancements."
+msgstr ""
+
+#: includes/settings/general.php:40
+msgid "Delete database on uninstalling plugin."
+msgstr ""
+
+#: includes/settings/integrations.php:12
+msgid "Integrations"
+msgstr ""
+
+#: includes/settings/integrations.php:25
+msgid "Integration Settings"
+msgstr ""
+
+#: includes/settings/integrations.php:30
+msgid "Integration"
+msgstr ""
+
+#: includes/settings/integrations.php:31
+msgid "Automations with Pie Forms"
+msgstr ""
+
+#: includes/settings/licence.php:12
+msgid "licence Key"
+msgstr ""
+
+#: includes/settings/licence.php:56
+msgid "Activate Addons Licence Settings"
+msgstr ""
+
+#: includes/settings/licence.php:61
+msgid "Upgrade To Premium Version"
+msgstr ""
+
+#: includes/settings/licence.php:68
+msgid "Multipage Forms Addon"
+msgstr ""
+
+#: includes/settings/licence.php:72 includes/settings/licence.php:91
+#: includes/settings/licence.php:110 includes/settings/licence.php:129
+#: includes/settings/licence.php:148 includes/settings/licence.php:167
+#: includes/settings/licence.php:186 includes/settings/licence.php:205
+#: includes/settings/licence.php:224 includes/settings/licence.php:243
+#: includes/settings/licence.php:262 includes/settings/licence.php:281
+#: includes/settings/licence.php:300 includes/settings/licence.php:319
+msgid "Email Address"
+msgstr ""
+
+#: includes/settings/licence.php:79 includes/settings/licence.php:98
+#: includes/settings/licence.php:117 includes/settings/licence.php:136
+#: includes/settings/licence.php:155 includes/settings/licence.php:174
+#: includes/settings/licence.php:193 includes/settings/licence.php:212
+#: includes/settings/licence.php:231 includes/settings/licence.php:250
+#: includes/settings/licence.php:269 includes/settings/licence.php:288
+#: includes/settings/licence.php:307 includes/settings/licence.php:326
+msgid "License key"
+msgstr ""
+
+#: includes/settings/licence.php:87
+msgid "Password Protected Addon"
+msgstr ""
+
+#: includes/settings/licence.php:106
+msgid "Drip Campaign Addon"
+msgstr ""
+
+#: includes/settings/licence.php:125
+msgid "Broadcast Campaign Addon"
+msgstr ""
+
+#: includes/settings/licence.php:144
+msgid "Smart Auto Translation Addon"
+msgstr ""
+
+#: includes/settings/licence.php:163
+msgid "Paypal Donation Addon"
+msgstr ""
+
+#: includes/settings/licence.php:182
+msgid "Paypal Payment Addon"
+msgstr ""
+
+#: includes/settings/licence.php:239
+msgid "Pabbly Addon"
+msgstr ""
+
+#: includes/settings/licence.php:258
+msgid "Quiz Addon"
+msgstr ""
+
+#: includes/settings/licence.php:277
+msgid "Active Campaign Addon"
+msgstr ""
+
+#: includes/settings/licence.php:296
+msgid "Authorize.Net Addon"
+msgstr ""
+
+#: includes/settings/licence.php:315
+msgid "Mailchimp Addon"
+msgstr ""
+
+#: includes/settings/payments.php:12 includes/settings/payments.php:27
+msgid "Payments"
+msgstr ""
+
+#: includes/settings/payments.php:28
+msgid "Payments Addon Available"
+msgstr ""
+
+#: includes/settings/recaptcha.php:15
+msgid "reCAPTCHA"
+msgstr ""
+
+#: includes/settings/recaptcha.php:32
+msgid "Google reCAPTCHA Integration"
+msgstr ""
+
+#: includes/settings/recaptcha.php:39
+msgid "reCAPTCHA type"
+msgstr ""
+
+#: includes/settings/recaptcha.php:40
+msgid "Choose the type of reCAPTCHA for this site key."
+msgstr ""
+
+#: includes/settings/recaptcha.php:45
+msgid "reCAPTCHA v2"
+msgstr ""
+
+#: includes/settings/recaptcha.php:46
+msgid "reCAPTCHA v3"
+msgstr ""
+
+#: includes/settings/recaptcha.php:52 includes/settings/recaptcha.php:72
+#: includes/settings/recaptcha.php:100
+msgid "Site Key"
+msgstr ""
+
+#: includes/settings/recaptcha.php:55 includes/settings/recaptcha.php:75
+msgid "Please enter your site key for your reCAPTCHA v2."
+msgstr ""
+
+#: includes/settings/recaptcha.php:62 includes/settings/recaptcha.php:82
+#: includes/settings/recaptcha.php:110
+msgid "Secret Key"
+msgstr ""
+
+#: includes/settings/recaptcha.php:65 includes/settings/recaptcha.php:85
+msgid "Please enter your secret key for your reCAPTCHA v2."
+msgstr ""
+
+#: includes/settings/recaptcha.php:103
+msgid "Please enter your site key for your reCAPTCHA v3."
+msgstr ""
+
+#: includes/settings/recaptcha.php:113
+msgid "Please enter your secret key for your reCAPTCHA v3."
+msgstr ""
+
+#: includes/settings/recaptcha.php:120
+msgid "Language"
+msgstr ""
+
+#: includes/settings/recaptcha.php:121
+msgid "Choose the language of reCAPTCHA."
+msgstr ""
+
+#: includes/settings/validation.php:12
+msgid "Messages"
+msgstr ""
+
+#: includes/settings/validation.php:27
+msgid "Global Forms Messages"
+msgstr ""
+
+#: includes/settings/validation.php:34
+msgid "Enter the message for the required form field"
+msgstr ""
+
+#: includes/settings/validation.php:42
+msgid "Website URL"
+msgstr ""
+
+#: includes/settings/validation.php:43
+msgid "Enter the message for the valid website url"
+msgstr ""
+
+#: includes/settings/validation.php:48
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: includes/settings/validation.php:52
+msgid "Enter the message for the valid email"
+msgstr ""
+
+#: includes/settings/validation.php:57
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: includes/settings/validation.php:60
+msgid "reCaptcha"
+msgstr ""
+
+#: includes/settings/validation.php:61
+msgid "Enter the message for the reCaptcha."
+msgstr ""
+
+#: includes/settings/validation.php:66
+msgid "Please fill recaptcha"
+msgstr ""
+
+#: includes/settings/validation.php:70
+msgid "Enter the message for the valid number"
+msgstr ""
+
+#: includes/settings/validation.php:75
+msgid "Please enter a valid number."
+msgstr ""
+
+#: includes/settings/validation.php:78
+msgid "Phone Number"
+msgstr ""
+
+#: includes/settings/validation.php:79
+msgid "Enter the message for the phone number"
+msgstr ""
+
+#: includes/settings/validation.php:84
+msgid "Please enter a phone number."
+msgstr ""
+
+#: includes/settings/validation.php:87
+msgid "Form Submit Button Text"
+msgstr ""
+
+#: includes/settings/validation.php:88
+msgid "Enter the form submit button text"
+msgstr ""
+
+#: includes/settings/validation.php:93
+msgid "Send."
+msgstr ""
+
+#: includes/settings/validation.php:96
+msgid "Success Form Submission Message"
+msgstr ""
+
+#: includes/settings/validation.php:97
+msgid "Enter the Success form submission message"
+msgstr ""
+
+#: includes/settings/validation.php:102
+msgid "Form has been submitted."
+msgstr ""
+
+#: includes/shortcodes/block.php:69
+msgid "Select and display one of your forms."
+msgstr ""
+
+#: includes/shortcodes/block.php:71
+msgid "form"
+msgstr ""
+
+#: includes/shortcodes/block.php:72
+msgid "contact"
+msgstr ""
+
+#: includes/shortcodes/block.php:73
+msgid "survey"
+msgstr ""
+
+#: includes/shortcodes/block.php:75
+msgid "Select a Form"
+msgstr ""
+
+#: includes/shortcodes/block.php:76
+msgid "Form Settings"
+msgstr ""
+
+#: includes/shortcodes/form.php:316
+msgid "Sorry, something went wrong. Please try again"
+msgstr ""
+
+#: includes/shortcodes/form.php:459
+msgid "This field is required"
+msgstr ""
+
+#: includes/templates/add-new.php:7
+msgid "All"
+msgstr ""
+
+#: includes/templates/add-new.php:8
+msgid "Free"
+msgstr ""
+
+#: includes/templates/add-new.php:9
+msgid "Premium"
+msgstr ""
+
+#: includes/templates/add-new.php:13
+msgid "Quiz Forms"
+msgstr ""
+
+#: includes/templates/add-new.php:25
+msgid "Something went wrong. Please refresh your templates."
+msgstr ""
+
+#: includes/templates/addonPages/activeCampaign.php:23
+msgid "ActiveCampaign add-on allows you to add contacts, log events, and automate contacts with tags."
+msgstr ""
+
+#: includes/templates/addonPages/activeCampaign.php:24
+msgid "Using the PieForms ActiveCampaign extension, you can choose which tags to add to contacts in ActiveCampaign."
+msgstr ""
+
+#: includes/templates/addonPages/activeCampaign.php:25
+msgid "Users can submit particular form data to their ActiveCampaign account by mapping form fields to ActiveCampaign fields."
+msgstr ""
+
+#: includes/templates/addonPages/activeCampaign.php:26
+msgid "Using the Add-On, users can tag leads according to their submitted form."
+msgstr ""
+
+#: includes/templates/addonPages/activeCampaign.php:27
+msgid "Users can select the ActiveCampaign list to which form submissions should be added."
+msgstr ""
+
+#: includes/templates/addonPages/broadcastEmail.php:26
+msgid "It allows the admin to send a single message to all the registered users through that form."
+msgstr ""
+
+#: includes/templates/addonPages/broadcastEmail.php:27
+msgid "Broadcast emails are quick and time-saving."
+msgstr ""
+
+#: includes/templates/addonPages/broadcastEmail.php:28
+msgid "Users are kept informed through announcements, newsletters, and updates using the Broadcast Email"
+msgstr ""
+
+#: includes/templates/addonPages/broadcastEmail.php:29
+msgid "Admin can schedule the email campaign to be sent at the best time for recipients."
+msgstr ""
+
+#: includes/templates/addonPages/broadcastEmail.php:30
+msgid "Add smart tags in your email body for name, email, and unsubscribe."
+msgstr ""
+
+#: includes/templates/addonPages/broadcastEmail.php:31
+msgid "Admin can view the list of previously sent Broadcast emails."
+msgstr ""
+
+#: includes/templates/addonPages/dripCampaign.php:26
+msgid "Simple to schedule emails by setting hours and days for the campaign.."
+msgstr ""
+
+#: includes/templates/addonPages/dripCampaign.php:27
+msgid "Automatic and immediate email response to form submission."
+msgstr ""
+
+#: includes/templates/addonPages/dripCampaign.php:28
+msgid "Add smart tags in your email body for name, email, and unsubscription."
+msgstr ""
+
+#: includes/templates/addonPages/mailchimp.php:25
+msgid "Select the MailChimp mailing list to save the user data."
+msgstr ""
+
+#: includes/templates/addonPages/mailchimp.php:26
+msgid "Choose the Single opt-in/Double opt-in for user consent verification."
+msgstr ""
+
+#: includes/templates/addonPages/mailchimp.php:27
+msgid "Map and merge the form fields with the MailChimp tags."
+msgstr ""
+
+#: includes/templates/addonPages/payments.php:13
+msgid "Payment Addons"
+msgstr ""
+
+#: includes/templates/addonPages/smarttranslation.php:26
+msgid "Works with two Translators, Google Translate and Deepl."
+msgstr ""
+
+#: includes/templates/addonPages/smarttranslation.php:27
+msgid "Translates the text for Text Area and Single Line Text field."
+msgstr ""
+
+#: includes/templates/addonPages/smarttranslation.php:28
+msgid "Enable the Smart Translation to make the fields auto-translated."
+msgstr ""
+
+#: includes/templates/addons.php:13 includes/templates/welcome.php:247
+msgid "Add-ons"
+msgstr ""
+
+#: includes/templates/email/footer-default.php:33
+#, php-format
+msgid "Sent from %s"
+msgstr ""
+
+#: includes/templates/form-builder.php:26
+msgid "Copied!"
+msgstr ""
+
+#: includes/templates/form-builder.php:29
+#: includes/templates/form-builder.php:56
+msgid "Save"
+msgstr ""
+
+#: includes/templates/marketing.php:65 includes/templates/settings.php:42
+#: includes/templates/smarttranslation.php:30
+msgid "Save Settings"
+msgstr ""
+
+#: includes/templates/recommended-docx.php:3
+msgid "How to use"
+msgstr ""
+
+#: includes/templates/related-features.php:6
+msgid "Schedule Forms"
+msgstr ""
+
+#: includes/templates/related-features.php:8
+msgid "Set up an opening and closing date on your forms for time-limited submissions"
+msgstr ""
+
+#: includes/templates/related-features.php:13
+msgid "Multipage Addon"
+msgstr ""
+
+#: includes/templates/related-features.php:15
+msgid "Break your forms into small parts and multiple pages to provide a better user experience with the Multipage Forms Add-on"
+msgstr ""
+
+#: includes/templates/related-features.php:19
+msgid "Drip Addon"
+msgstr ""
+
+#: includes/templates/related-features.php:21
+msgid "Design and schedule email campaigns to send automated response to your users with Pie Forms' Drip Add-on"
+msgstr ""
+
+#: includes/templates/related-features.php:27
+msgid "The File Upload field in Pie Forms allows the user to upload documents, images, or videos on form submission"
+msgstr ""
+
+#: includes/templates/related-features.php:31
+msgid "Limit Entries"
+msgstr ""
+
+#: includes/templates/related-features.php:33
+msgid "Pie Forms allows you to limit the number of form submissions for a particular form"
+msgstr ""
+
+#: includes/templates/related-features.php:37
+#: includes/templates/welcome.php:210
+msgid "Block Users"
+msgstr ""
+
+#: includes/templates/related-features.php:39
+msgid "Block unwanted users and bots by their Username, Email address, or IP address to keep your website spam-free"
+msgstr ""
+
+#: includes/templates/related-features.php:47
+msgid "Recommended Features and Addons"
+msgstr ""
+
+#: includes/templates/smarttranslation.php:30
+msgid "save settings"
+msgstr ""
+
+#: includes/templates/smarttranslation.php:44
+#, php-format
+msgid "<div class=\"pf-activate-plugin-notice\" style=margin:20px;><a href=\"%s\">Please Activate Smart Auto Translation Addon</a></div>"
+msgstr ""
+
+#: includes/templates/welcome.php:60
+msgid "Welcome to PForms"
+msgstr ""
+
+#: includes/templates/welcome.php:61
+msgid "Welcome to pieform"
+msgstr ""
+
+#: includes/templates/welcome.php:129
+msgid "Pie Forms Logo"
+msgstr ""
+
+#: includes/templates/welcome.php:132
+msgid "How to create your first form"
+msgstr ""
+
+#: includes/templates/welcome.php:143
+msgid "Get Started"
+msgstr ""
+
+#: includes/templates/welcome.php:149
+msgid "Read the Full Guide"
+msgstr ""
+
+#: includes/templates/welcome.php:158
+msgid "Frequently Used Features"
+msgstr ""
+
+#: includes/templates/welcome.php:166
+msgid "View Submissions"
+msgstr ""
+
+#: includes/templates/welcome.php:177
+msgid "Configure reCaptcha"
+msgstr ""
+
+#: includes/templates/welcome.php:199
+msgid "Import Contact Form 7"
+msgstr ""
+
+#: includes/templates/welcome.php:221
+msgid "Translate Forms"
+msgstr ""
+
+#: includes/templates/welcome.php:231
+msgid "Resourceful Links"
+msgstr ""
+
+#: includes/templates/welcome.php:238
+msgid "Getting Started"
+msgstr ""
+
+#: includes/templates/welcome.php:256
+msgid "Features"
+msgstr ""
+
+#: includes/templates/welcome.php:265
+msgid "How-to"
+msgstr ""
+
+#: includes/tools/environment.php:15
+msgid "Environment"
+msgstr ""
+
+#: includes/tools/pluginsthemes.php:15
+msgid "Plugins And Themes"
+msgstr ""
+
+#: pie-forms-for-wp.php:354
+msgid "Go Premium"
+msgstr ""
+
+#: pie-forms-for-wp.php:510
+msgid "Automate form entries through powerful features and addons. "
+msgstr ""
+
+#: pie-forms-for-wp.php:510
+msgid " Use code \"automate\" at checkout. Limited time offer."
+msgstr ""
